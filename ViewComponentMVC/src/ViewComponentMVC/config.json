@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "ViewComponentMVC"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-ViewComponentMVC-7b142ab3-8f5f-4e56-a9fb-67703086b147;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
